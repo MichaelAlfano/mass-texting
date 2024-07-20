@@ -4,7 +4,7 @@
 
 1. Edit fields (see below)
 2. Note: Ensure that Python 3 is installed on your system before running the script.
-3. Open the terminal.
+3. Open a terminal.
 4. Navigate to the directory containing the script.
 5. Run the script using the following command:
 
