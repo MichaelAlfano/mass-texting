@@ -22,5 +22,3 @@ Example:
 2. Message: Replace "ADD YOUR MESSAGE HERE" with your desired message.
 
 Note: currently there is no functionality for sending images.
-
-WARNING: do not move or edit the scripts.
